@@ -5,8 +5,8 @@ import requests
 import datetime as dt
 
 #TODO constants
-NUTRITIONIX_APPID="aba1aef5"
-NUTRITIONIX_APPKEY="a96ab95c4df192946bf890eb5710e3ee"
+NUTRITIONIX_APPID=""
+NUTRITIONIX_APPKEY=""
 GENDER="male"
 AGE="21"
 WEIGHT=62
